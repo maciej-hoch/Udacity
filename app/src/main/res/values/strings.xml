@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App Portofolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="mh_media_streamer">Spotify Streamer</string>
+    <string name="mh_score_app">Scores App</string>
+    <string name="mh_library_app">Library App</string>
+    <string name="mh_build_bigger">Build it Bigger</string>
+    <string name="mh_xyz_reader">XYZ Reader</string>
+    <string name="mh_capstone">CAPSTONE: Own App</string>
+    <string name="mh_available_apps">My Available Applications</string>
+    <string name="mh_toast_media_streamer">This button will launch My Spotify Steamer</string>
+    <string name="mh_toast_score_app">This button will launch My Scores App</string>
+    <string name="mh_toast_library_app">This button will launch My Library App</string>
+    <string name="mh_toast_build_bigger">This button will launch My Build Big App</string>
+    <string name="mh_toast_xyz_reader">This button will launch My XYZ Reader App</string>
+    <string name="mh_toast_capstone">This button will launch My Capstone App</string>
+</resources>
